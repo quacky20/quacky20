@@ -61,6 +61,7 @@ Data Structures & Algorithms, Artificial Intelligence, Graph Algorithms, Compile
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=25&lines=Technical+Skills" />
 </p>
+
 **Languages:** Python, C, C++, JavaScript, TypeScript  
 **Frameworks:** React.js, Next.js, React Native, FastAPI, Flask, Three.js, Tailwind CSS  
 **AI/ML:** PyTorch, TensorFlow, LangChain, Scikit-learn  
