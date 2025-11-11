@@ -19,13 +19,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=25&lines=About+Me" />
 </p>
 
-Hi, I'm **Arman Bhattacharjee**, a Computer Science and Engineering undergrad at **IIT (ISM) Dhanbad**, passionate about **AI, Web Development, and Open Source**.  
-I love building intelligent, interactive, and creative digital experiences — from full-stack web apps to AI-driven tools.
+# Hi, I'm Arman Bhattacharjee 👋  
+**Computer Science and Engineering Undergrad @ IIT (ISM) Dhanbad**  
+**AI/ML | Full-Stack Development | Interactive Digital Experiences**
 
-🎯 **Currently working on:** Deep learning and full-stack AI projects  
-🌱 **Learning:** LangChain, FastAPI, and scalable backend design  
-💬 **Ask me about:** Python, React, Machine Learning, or Web Dev  
-⚡ **Fun fact:** I design pixel-art 3D worlds when I’m not coding!
+I enjoy building intelligent, scalable, and visually immersive applications — from AI-driven tools and music recommendation systems to interactive 3D portfolio environments.
+
+---
+
+### 🔭 What I’m Working On
+- AI-powered full-stack projects integrating LLMs with real-world applications
+- Exploring LangChain, FastAPI, scalable backend design, and cloud-first architectures
+
+### 🧠 Core Interests
+- Machine Learning & Deep Learning
+- Full Stack Web Development (MERN + Python backends)
+- AI in creative and interactive experiences (3D scenes, music systems, coding tools)
+
+---
 
 <br>
 <br>
@@ -36,8 +47,28 @@ I love building intelligent, interactive, and creative digital experiences — f
 </p>
 
 **Indian Institute of Technology (ISM), Dhanbad**  
-_B.Tech in Computer Science and Engineering (Expected May 2027)_  
-Relevant Courses: Data Structures, Algorithms, OOP, OS, Probability & Statistics, Linear Algebra
+B.Tech in Computer Science and Engineering *(Expected May 2027)*  
+**GPA:** 8.74 / 10.00  
+
+**Relevant Coursework:**  
+Data Structures & Algorithms, Artificial Intelligence, Graph Algorithms, Compiler Design, Operating Systems, DBMS, Computer Architecture, Probability & Statistics, Linear Algebra
+
+---
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=25&lines=Technical+Skills" />
+</p>
+**Languages:** Python, C, C++, JavaScript, TypeScript  
+**Frameworks:** React.js, Next.js, React Native, FastAPI, Flask, Three.js, Tailwind CSS  
+**AI/ML:** PyTorch, TensorFlow, LangChain, Scikit-learn  
+**Data Science:** NumPy, Pandas, Matplotlib  
+**Concepts:** DSA, OOP, Neural Networks, Computer Vision, NLP, OS, DBMS  
+**Tools:** Git, REST APIs, Web Development (Full Stack)
+
+---
 
 <br>
 <br>
