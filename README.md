@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
 
-<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" /> </p>
 
 <p align="center"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> </p>
 
@@ -48,7 +48,6 @@ I enjoy building intelligent, scalable, and visually immersive applications — 
 
 **Indian Institute of Technology (ISM), Dhanbad**  
 B.Tech in Computer Science and Engineering *(Expected May 2027)*  
-**GPA:** 8.74 / 10.00  
 
 **Relevant Coursework:**  
 Data Structures & Algorithms, Artificial Intelligence, Graph Algorithms, Compiler Design, Operating Systems, DBMS, Computer Architecture, Probability & Statistics, Linear Algebra
@@ -63,11 +62,9 @@ Data Structures & Algorithms, Artificial Intelligence, Graph Algorithms, Compile
 </p>
 
 **Languages:** Python, C, C++, JavaScript, TypeScript  
-**Frameworks:** React.js, Next.js, React Native, FastAPI, Flask, Three.js, Tailwind CSS  
-**AI/ML:** PyTorch, TensorFlow, LangChain, Scikit-learn  
-**Data Science:** NumPy, Pandas, Matplotlib  
-**Concepts:** DSA, OOP, Neural Networks, Computer Vision, NLP, OS, DBMS  
-**Tools:** Git, REST APIs, Web Development (Full Stack)
+**Frameworks, Libraries & Tools:**: Node.js, Express.js, MongoDB, Mongoose, React.js, Next.js, React Native, FastAPI, Flask, NumPy, Pandas, Seaborn ,MatplotLib, Scikit-learn, OpenCV, Tkinter, Tailwind CSS, Three.js, Git
+**Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Database Management Systems, Compiler Design, Deep Learning
+**Other skills:** Full-Stack Web Development, Machine Learning, Artificial Intelligence, Data Analysis
 
 ---
 
