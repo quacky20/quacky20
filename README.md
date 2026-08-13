@@ -21,20 +21,60 @@
 
 # Hi, I'm Arman Bhattacharjee 👋  
 **Computer Science and Engineering Undergrad @ IIT (ISM) Dhanbad**  
-**AI/ML | Full-Stack Development | Interactive Digital Experiences**
+**Full-Stack Development | AI/ML | Interactive Digital Experiences**
 
 I enjoy building intelligent, scalable, and visually immersive applications — from AI-driven tools and music recommendation systems to interactive 3D portfolio environments.
 
 ---
 
 ### 🔭 What I’m Working On
-- AI-powered full-stack projects integrating LLMs with real-world applications
-- Exploring LangChain, FastAPI, scalable backend design, and cloud-first architectures
+- Full-stack projects that go beyond just surface level learning
+- Exploring Low-Level design and learning how real systems work
 
 ### 🧠 Core Interests
+- Full Stack Web Development
 - Machine Learning & Deep Learning
-- Full Stack Web Development (MERN + Python backends)
-- AI in creative and interactive experiences (3D scenes, music systems, coding tools)
+- Creative and interactive experiences (3D scenes, music systems, coding tools)
+
+---
+
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=25&lines=Experience" />
+</p>
+
+### **Barclays**
+**Summer Intern *(May-July 2026)***  
+
+Worked as a Software Engineering Intern in the Market Post Trade team, contributing to enterprise applications supporting post-trade processing, trade validation, record management, and settlement workflows.
+
+Worked on a Java + Springboot backend, Typescript + Redux microfrontend architecture. Developed comprehensive frontend test suites using Jest for unit testing and Cucumber, Gherkin, and Playwright for BDD testing. Built an AI-powered BTB support automation pipeline.
+
+### **BluAd Digital**
+**Frontend Developer *(Aug-Nov 2025)***
+
+Contributed to the development of BluMax Health, a healthcare Hospital Management System, by building frontend features using Next.js and TypeScript and integrating REST APIs. Assisted in UX and user flow design by refining page layouts and interaction flows based on functional requirements.
+
+Built the frontend of Fresh Dairy, a client-facing milk delivery mobile application, from scratch using React Native. Designed key screens and implemented end-to-end user flows, focusing on customer onboarding, ordering, and navigation experiences.
+
+---
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=25&lines=Technical+Skills" />
+</p>
+
+**Languages:** Python, C, C++, JavaScript, TypeScript, Rust, Java
+
+**Frameworks, Libraries & Tools:**: Node.js, Express.js, MongoDB, Mongoose, React.js, Next.js, Springboot, Redux, Cucumber, Gherkin, Jest, React Native, FastAPI, Flask, NumPy, Pandas, Seaborn ,MatplotLib, Scikit-learn, OpenCV, Tkinter, Tailwind CSS, Three.js, Git
+
+**Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Database Management Systems, Compiler Design, Deep Learning
+**Other skills:** Full-Stack Web Development, Machine Learning, Artificial Intelligence, Data Analysis
 
 ---
 
@@ -50,24 +90,9 @@ I enjoy building intelligent, scalable, and visually immersive applications — 
 B.Tech in Computer Science and Engineering *(Expected May 2027)*  
 
 **Relevant Coursework:**  
-Data Structures & Algorithms, Artificial Intelligence, Graph Algorithms, Compiler Design, Operating Systems, DBMS, Computer Architecture, Probability & Statistics, Linear Algebra
+Data Structures & Algorithms, Artificial Intelligence, Graph Algorithms, Compiler Design, Computer Networks, Cloud Computing, Cryptography, Operating Systems, DBMS, Computer Architecture, Probability & Statistics, Linear Algebra
 
 ---
-<br>
-<br>
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=25&lines=Technical+Skills" />
-</p>
-
-**Languages:** Python, C, C++, JavaScript, TypeScript  
-**Frameworks, Libraries & Tools:**: Node.js, Express.js, MongoDB, Mongoose, React.js, Next.js, React Native, FastAPI, Flask, NumPy, Pandas, Seaborn ,MatplotLib, Scikit-learn, OpenCV, Tkinter, Tailwind CSS, Three.js, Git
-**Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Database Management Systems, Compiler Design, Deep Learning
-**Other skills:** Full-Stack Web Development, Machine Learning, Artificial Intelligence, Data Analysis
-
----
-
 <br>
 <br>
 <br>
