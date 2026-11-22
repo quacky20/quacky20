@@ -11,7 +11,7 @@ I'm also interested in **mobile application development, game development, and 3
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,rust,cpp,c,java,nextjs,react,tailwind,mongodb,express,html,css,figma)](https://armanbhattacharjee.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,rust,cpp,c,java,nextjs,react,tailwind,mongodb,express,html,css,figma)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <br>
 
